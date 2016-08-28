@@ -1,0 +1,3 @@
+***altuð***
+
+-data çýkýþý düzeltildi.

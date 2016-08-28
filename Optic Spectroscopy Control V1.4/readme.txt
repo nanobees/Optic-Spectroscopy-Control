@@ -1,0 +1,1 @@
+the data that readed from oscilloscope averaged and wavelength-oscilloscope graph added.

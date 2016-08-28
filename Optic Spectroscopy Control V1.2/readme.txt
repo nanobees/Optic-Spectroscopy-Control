@@ -1,0 +1,1 @@
+-save to file ve xy graph loop dýþýna alýndý. Artýk grafikteki datanýn silinmesi için aç-kapa yapmayacaðýz. Ama datayý real time göremeyeceðiz,onun için de bir gösterge koydum.

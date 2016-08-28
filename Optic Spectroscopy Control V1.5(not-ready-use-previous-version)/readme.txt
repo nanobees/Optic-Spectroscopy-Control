@@ -1,0 +1,1 @@
+probe attunation'ý osc ekraný ve bilgisayar ekraný ayný versin diye bir sabit ile çarpmak(?) daha çalýþmýyor dikkat!

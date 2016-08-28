@@ -1,0 +1,1 @@
+real time oscilloscope reading added.
